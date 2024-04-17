@@ -14,6 +14,7 @@ matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
 packaging==24.0
 parso==0.8.4
+persiantools==4.0.0
 pexpect==4.9.0
 platformdirs==4.2.0
 prompt-toolkit==3.0.43
@@ -23,6 +24,7 @@ pure-eval==0.2.2
 Pygments==2.17.2
 pymongo==4.6.3
 python-dateutil==2.9.0.post0
+pytz==2024.1
 pyzmq==26.0.0
 six==1.16.0
 stack-data==0.6.3
